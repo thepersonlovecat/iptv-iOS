@@ -15,8 +15,6 @@ Here are some actual screenshots of the application:
   <img src="screenshot4.png" width="22%" alt="Settings & Premium Themes" />
 </p>
 
-*(Please replace `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, and `screenshot4.png` with your own app screenshots)*
-
 ---
 
 ## ✨ Key Features
