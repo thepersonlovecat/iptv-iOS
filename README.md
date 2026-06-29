@@ -66,5 +66,5 @@ The application is fully localized and supports:
 
 ## 🛠️ System Requirements
 
-* **Operating System**: iOS / iPadOS 17.6 or newer.
+* **Operating System**: iOS / iPadOS 17 or newer.
 * **IPA Installation**: Can be sideloaded using **TrollStore** (recommended), **AltStore**, **Sideloadly**, or **Scarlet**.
